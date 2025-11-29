@@ -10,7 +10,7 @@ Peking University, Yuanpei College
 📍 Beijing, China  
 ✉️ zmwandering@gmail.com  
 
-<img src="/static/images/profile.jpg" alt="profile" style="width: 70%; height: auto; display: block; margin: 0 auto;">
+<img src="/static/images/profile_new.jpg" alt="profile" style="width: 70%; height: auto; display: block; margin: 0 auto;">
 
 ---
 
