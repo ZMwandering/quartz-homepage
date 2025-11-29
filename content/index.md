@@ -1,3 +1,7 @@
+---
+title: Liangyu Wu
+---
+
 # Liangyu Wu (吴亮宇)
 
 **Undergraduate Researcher in Artificial Intelligence**  
