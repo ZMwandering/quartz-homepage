@@ -1,0 +1,3 @@
+/static/papers/*.pdf
+  Content-Type: application/pdf
+  X-Content-Type-Options: nosniff
