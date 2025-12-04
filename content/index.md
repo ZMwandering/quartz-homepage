@@ -16,10 +16,13 @@ Peking University, Yuanpei College
 
 ## 👋 About Me
 
-I am a senior undergraduate at **Peking University (Yuanpei College)** majoring in **Artificial Intelligence**.  
-My research interests focus on **Multi-Agent Systems (MAS)**, **Game Theory**, and **LLM Agents**, especially how to improve **strategic consistency, few-shot adaptation, and reasoning efficiency** in complex multi-agent environments.
+I am a senior undergraduate at **Peking University (Yuanpei College)** majoring in **Artificial Intelligence**, a member of the **Tong Class** program.
 
-I have worked on **LLM-based bridge bidding**, **mixed-motive adaptive agents**, and **computational neuroscience models of learning dynamics**. I particularly enjoy bridging **symbolic reasoning, LLMs, and game-theoretic modeling**.
+My research lies at the intersection of **Multi-Agent Systems**, **Game Theory**, and **Cognitive Science**, driven by the question: *how does intelligence emerge through interaction?* I am particularly interested in building agents that model beliefs and intentions, maintain shared context, and reason strategically in long-horizon, imperfect-information environments.
+
+My work spans **neuro-symbolic architectures for strategic reasoning**, **cognitive-inspired learning paradigms**, and **LLM-based multi-agent communication**. I have developed symbolic-LLM reasoning modules for bridge bidding, implemented recursive Theory-of-Mind planners, and studied biologically inspired learning mechanisms to understand how efficient adaptation arises in both artificial and natural systems.
+
+Across these projects, I aim to integrate **symbolic structure**, **cognitive theory**, and **deep learning** to design socially intelligent agents that coordinate, communicate, and learn through interaction.
 
 ---
 
